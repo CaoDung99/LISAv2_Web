@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hello, Cao Trn Dng Nice to have you bac_00b582</name>
+   <tag></tag>
+   <elementGuidId>bcda4ec9-1672-4b88-9b1e-4a8e68335ec8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.home_menu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div[2]/main/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>539051cc-1677-43b3-a932-7fe986ec2c30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container home_menu</value>
+      <webElementGuid>6c80cde9-1a1f-4b31-99af-80a35cc27d72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello, Cao Trần Dũng Nice to have you back,  what an exciting day!Get ready right now. ADD NEWQuestion CREATE NEWTest</value>
+      <webElementGuid>ad903638-b9a9-4498-b94a-1e2a523699dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[@class=&quot;q-layout q-layout--standard&quot;]/div[@class=&quot;q-page-container&quot;]/main[@class=&quot;q-page&quot;]/div[@class=&quot;col&quot;]/div[1]/div[1]/div[@class=&quot;container home_menu&quot;]</value>
+      <webElementGuid>96662043-c140-47f5-9113-7af0bd8ff32b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div[2]/main/div/div/div/div</value>
+      <webElementGuid>08f3f06a-0f94-45b6-8890-a301d17b184c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[5]</value>
+      <webElementGuid>4a80ab0c-350c-4022-8831-652bb64b4fa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::div[6]</value>
+      <webElementGuid>a096b709-731a-4a3d-aff4-d0d8a4b5ab2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div</value>
+      <webElementGuid>67c44342-5ba7-4f88-9f30-b203c2f08db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hello, Cao Trần Dũng Nice to have you back,  what an exciting day!Get ready right now. ADD NEWQuestion CREATE NEWTest' or . = 'Hello, Cao Trần Dũng Nice to have you back,  what an exciting day!Get ready right now. ADD NEWQuestion CREATE NEWTest')]</value>
+      <webElementGuid>72dde6ae-8c9a-4fb2-9581-c8a5e979f95c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -9,6 +9,16 @@ import com.kms.katalon.core.main.TestCaseMain
  */
 public class GlobalVariable {
      
+    /**
+     * <p></p>
+     */
+    public static Object URL
+     
+    /**
+     * <p></p>
+     */
+    public static Object G_Timeout
+     
 
     static {
         try {
@@ -16,6 +26,8 @@ public class GlobalVariable {
 			selectedVariables += TestCaseMain.getGlobalVariables(RunConfiguration.getExecutionProfile())
             selectedVariables += TestCaseMain.getParsedValues(RunConfiguration.getOverridingParameters())
     
+            URL = selectedVariables['URL']
+            G_Timeout = selectedVariables['G_Timeout']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)

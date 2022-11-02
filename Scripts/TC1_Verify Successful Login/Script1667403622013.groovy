@@ -17,3 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://test-lcms-otpv2.blue4ocean.online/')
+
+WebUI.click(findTestObject('Object Repository/Page_OTPV2-LCMS/span_Sign in with Google'))
+
+WebUI.switchToWindowTitle('Đăng nhập - Tài khoản Google')
+
+WebUI.setText(findTestObject('Object Repository/Page_ng nhp - Ti khon Google/input_blue4ocean.online_identifier'), 'dung.cao@blueocean.net.vn')
+
+WebUI.click(findTestObject('Object Repository/Page_ng nhp - Ti khon Google/span_Tip theo'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_ng nhp - Ti khon Google/input_Qu nhiu ln th khng thnh cng_password'), 
+    'RigbBhfdqODlVfpQobZ2tg==')
+
+WebUI.click(findTestObject('Object Repository/Page_ng nhp - Ti khon Google/span_Tip theo'))
+
+WebUI.switchToWindowTitle('OTPV2-LCMS')
+
+WebUI.click(findTestObject('Object Repository/Page_OTPV2-LCMS/div_Hello, Cao Trn Dng Nice to have you bac_00b582'))
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f70a5ce-a4d3-467e-b44a-116c9043ffab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d211b945-fde8-4e49-b9bc-7581235d3cf2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b00fa64f-8a5f-48fe-ba63-18eed0bcc065</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dung.cao@blueocean.net.vn'</defaultValue>
+      <description></description>
+      <id>d211b945-fde8-4e49-b9bc-7581235d3cf2</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456789Zain'</defaultValue>
+      <description></description>
+      <id>b00fa64f-8a5f-48fe-ba63-18eed0bcc065</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

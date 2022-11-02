@@ -17,3 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.setText(findTestObject('null'), Username)
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), Password)
+
+WebUI.click(findTestObject('null'))
+
