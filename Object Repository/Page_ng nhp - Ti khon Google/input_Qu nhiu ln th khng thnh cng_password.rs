@@ -6,12 +6,12 @@
    <elementGuidId>3e657aff-66c6-4103-9897-6b9442c35745</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;password&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,250 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>af546572-be87-494c-b46f-581e24123731</webElementGuid>
+      <webElementGuid>4672090f-6bcf-41d5-999f-2f0dd9f88a82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>598349af-d42c-4582-9ac5-248c99e5d1eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whsOnd zHQkBf</value>
+      <webElementGuid>f690474a-eea4-4890-ad95-7105d4ed20b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>YPqjbf</value>
+      <webElementGuid>b929686b-5c6d-4574-8a59-6953ccca7f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>current-password</value>
+      <webElementGuid>691ce7c5-fd45-4af8-b16a-8e2195dfef5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>4b4e126f-668c-42b9-9cf3-ebf1ca61cad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1d923b31-f27a-49e8-b553-4c5f8b3c8c45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nhập mật khẩu của bạn</value>
+      <webElementGuid>6473e8cd-5745-42a3-bd0b-41c78283c79f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>b5d7f6db-c969-483d-ab16-048f2c34ac0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocapitalize</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>e3b752d0-25e8-41f9-a815-938f7317c6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>ff8463a9-9fcc-4ad2-8a85-9a5075a0682c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-initial-dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>e3186e11-b41e-4bc9-bfbd-a9ef245cfa0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-initial-value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b3c73827-8d69-4789-859c-f2de0380e1d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>badinput</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>21f5698e-4062-403d-b862-9e3d0b565f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password&quot;)/div[@class=&quot;aCsJod oJeWuf&quot;]/div[@class=&quot;aXBtI Wic03c&quot;]/div[@class=&quot;Xb9hP&quot;]/input[@class=&quot;whsOnd zHQkBf&quot;]</value>
+      <webElementGuid>6c981817-e7ea-479c-a86a-2732f0f0402f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>df27c1cf-1dfb-48a6-ac17-1881a75349aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>84753f68-ab92-4107-b86f-f332e3bc8128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whsOnd zHQkBf</value>
+      <webElementGuid>b97eb4a8-32d0-4904-9c92-9e26dd316379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>YPqjbf</value>
+      <webElementGuid>01449494-3d51-4a07-b753-ebe75524680d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>current-password</value>
+      <webElementGuid>67954ee1-6e2b-406a-9a7e-e100360e5f1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1483f97f-940b-4c15-ad79-4fa57f741b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>cea852bd-347e-4db8-8e0b-190119e92a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Nhập mật khẩu của bạn</value>
+      <webElementGuid>22b315c8-14a7-412b-850c-97ec9b5f7e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>c9726831-ea66-49a3-afd2-204dc8a71f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocapitalize</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>74530079-4e73-4ba5-b269-c3bf39b68f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>431fe0d7-da59-4a23-a816-c9c4175a49dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-initial-dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>c368bcb0-74d1-4597-8b82-6611849ee536</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-initial-value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>32b9e586-dc54-4055-afb8-c6b8fdad77c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>badinput</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5c5c90a0-3ea8-455a-8414-a22453238ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;password&quot;)/div[@class=&quot;aCsJod oJeWuf&quot;]/div[@class=&quot;aXBtI Wic03c&quot;]/div[@class=&quot;Xb9hP&quot;]/input[@class=&quot;whsOnd zHQkBf&quot;]</value>
+      <webElementGuid>49ded2da-a20f-4f2f-a22b-8c5f50679ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>af546572-be87-494c-b46f-581e24123731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -81,7 +321,7 @@
       <webElementGuid>c53799a6-aa70-49f0-80c4-785c4a7a1243</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -142,7 +382,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='password']</value>
-      <webElementGuid>9b8aa05c-15d0-4b91-a88c-693258147b85</webElementGuid>
+      <webElementGuid>15be17e6-18a5-4e52-ad9b-2d7cd5dd437d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +390,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='password']/div/div/div/input</value>
-      <webElementGuid>8ef0b431-fa18-4128-8c63-a9aedfe67775</webElementGuid>
+      <webElementGuid>fb0c3ff3-cf64-448f-99ea-a14c23b92676</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +398,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/input</value>
-      <webElementGuid>7ecff1ff-0732-48b7-9f0b-4de0b8d156e2</webElementGuid>
+      <webElementGuid>78322575-774b-4ac8-a588-998958ca7c70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +406,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password']</value>
-      <webElementGuid>c5952668-3d08-4916-abfa-3a8952a06813</webElementGuid>
+      <webElementGuid>41725505-66f9-457c-a171-d31c447f4aed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

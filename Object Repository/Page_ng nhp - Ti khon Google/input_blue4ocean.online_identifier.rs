@@ -6,12 +6,12 @@
    <elementGuidId>a60b0c5a-03d2-4bdd-b691-6561d2f94942</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#identifierId</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='identifierId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#identifierId</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,266 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>502ee09e-342b-4899-bb3d-76ff230f2cba</webElementGuid>
+      <webElementGuid>0883b3d9-c313-4239-9993-0388d1db0053</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>6cf1211c-448b-4619-a03d-cd2e0f611e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whsOnd zHQkBf</value>
+      <webElementGuid>ab5e1555-c593-4021-bb45-14b98d2df6cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>YPqjbf</value>
+      <webElementGuid>4f14e274-2cbc-46cb-bf17-dee3e4114ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>b25a1064-68f8-4460-a285-fc50c6ccc9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>811f362e-ba97-4f14-87d4-36d413401593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>18c024e3-1945-46dd-9e94-2671ee02ba55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Email hoặc số điện thoại</value>
+      <webElementGuid>85bd115e-9e0a-4b33-92ee-125d3ec7fad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>identifier</value>
+      <webElementGuid>c0081395-eb29-4af5-a28e-cbdc206ee1c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocapitalize</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>b82330a2-06f0-4e34-9fbe-b5dfadf04226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>identifierId</value>
+      <webElementGuid>ad1c436b-b1f3-4baf-9a58-0b6064f62ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>62add38d-d88b-4dbf-b958-439464212889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-initial-dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>8d609fa1-49dc-46ab-b537-8ee599b2c76f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-initial-value</name>
+      <type>Main</type>
+      <value>dung.cao@blueocean.net.vn</value>
+      <webElementGuid>d1935de0-cb3b-40f4-ba80-fa026d8c8edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>badinput</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e5d38ebe-78c6-4308-92fb-36851e39af91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;identifierId&quot;)</value>
+      <webElementGuid>ba67b137-3f3a-4e7e-b2f4-8ef3972ce565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cdcd2988-c9ca-4a5b-883b-e9474b75cebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>3d460e03-5687-4115-8593-79759352dda1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>whsOnd zHQkBf</value>
+      <webElementGuid>b66163d5-feda-4c4c-b86e-295e13c18bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>YPqjbf</value>
+      <webElementGuid>082af073-772e-4b19-b188-45b176c2884b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>3f9a6220-72b8-4ecf-bfb8-54f4edf61e84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>spellcheck</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>245d351c-e821-4d56-8f4a-2b11073fe7e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a11d4762-81e9-4f79-a733-e88434bafbfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Email hoặc số điện thoại</value>
+      <webElementGuid>bfd6a6c5-1ebb-41bd-aef0-284f9e207f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>identifier</value>
+      <webElementGuid>63d85760-d494-4700-81ff-1752084376ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocapitalize</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>c697e76b-7f5c-4edd-a6aa-6055ef6bcf4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>identifierId</value>
+      <webElementGuid>6ed36b55-ef91-4eea-a7ab-460bf4c853ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>fb9cd639-3dfe-4620-9663-abf5b0c75efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-initial-dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>e51eda41-8363-417e-9839-9f77d73f030d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-initial-value</name>
+      <type>Main</type>
+      <value>dung.cao@blueocean.net.vn</value>
+      <webElementGuid>6886781d-158c-497f-abb3-7947fb121aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>badinput</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ebd41959-07c5-4eb1-a044-aa9476d3ef04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;identifierId&quot;)</value>
+      <webElementGuid>fdc9d5b0-b241-45b4-90bf-a5fd8d09fd41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>502ee09e-342b-4899-bb3d-76ff230f2cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -81,7 +337,7 @@
       <webElementGuid>e2ae1654-d32f-4285-a787-4394f0c14b34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
@@ -97,7 +353,7 @@
       <webElementGuid>25745537-0710-4ea3-851c-99d1905a2a70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -150,7 +406,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='identifierId']</value>
-      <webElementGuid>6d5d9e75-7a27-4159-892f-957e627da4dc</webElementGuid>
+      <webElementGuid>e1c9aa1d-9d87-46e3-a3a0-fd61c07cbae1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +414,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='view_container']/div/div/div[2]/div/div/div/form/span/section/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>52ec7240-46fe-4513-9729-663eaacf17ab</webElementGuid>
+      <webElementGuid>6b55b952-4c67-4c9b-9f66-198de35f9cd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +422,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>891dde2b-a884-445f-bb44-4d77fdecc5d8</webElementGuid>
+      <webElementGuid>ba6ffb2a-80cb-429c-b084-d8a49732974e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,6 +430,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'email' and @name = 'identifier' and @id = 'identifierId']</value>
-      <webElementGuid>0a4225a6-90a8-42cd-a1e2-189996407837</webElementGuid>
+      <webElementGuid>fab8c313-827c-4ef5-a19b-32c2809c1dfc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

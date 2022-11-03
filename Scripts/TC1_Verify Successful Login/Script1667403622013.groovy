@@ -32,7 +32,7 @@ WebUI.click(findTestObject('Object Repository/Page_ng nhp - Ti khon Google/span_
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_ng nhp - Ti khon Google/input_Qu nhiu ln th khng thnh cng_password'), 
     'RigbBhfdqODlVfpQobZ2tg==')
 
-WebUI.click(findTestObject('Object Repository/Page_ng nhp - Ti khon Google/span_Tip theo'))
+WebUI.click(findTestObject('Page_ng nhp - Ti khon Google/span_Tip theo'))
 
 WebUI.switchToWindowTitle('OTPV2-LCMS')
 

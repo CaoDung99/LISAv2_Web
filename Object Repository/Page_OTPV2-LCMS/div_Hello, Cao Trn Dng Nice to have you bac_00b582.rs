@@ -6,16 +6,48 @@
    <elementGuidId>bcda4ec9-1672-4b88-9b1e-4a8e68335ec8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.container.home_menu</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='q-app']/div/div[2]/main/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.home_menu</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>43c172a1-58a3-464c-a1d3-1493c0ff7937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container home_menu</value>
+      <webElementGuid>df9e5ab5-07c7-464f-8578-70d213f3dae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hello, Cao Trần Dũng Nice to have you back,  what an exciting day!Get ready right now. ADD NEWQuestion CREATE NEWTest</value>
+      <webElementGuid>25c5192e-1344-40cb-9fb5-86e440a25a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[@class=&quot;q-layout q-layout--standard&quot;]/div[@class=&quot;q-page-container&quot;]/main[@class=&quot;q-page&quot;]/div[@class=&quot;col&quot;]/div[1]/div[1]/div[@class=&quot;container home_menu&quot;]</value>
+      <webElementGuid>cc8d6f37-dab8-47a8-9edc-8bf010d18b7a</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +65,7 @@
       <webElementGuid>6c80cde9-1a1f-4b31-99af-80a35cc27d72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='q-app']/div/div[2]/main/div/div/div/div</value>
-      <webElementGuid>08f3f06a-0f94-45b6-8890-a301d17b184c</webElementGuid>
+      <webElementGuid>f18389f1-6a8f-4598-9b1d-56ac4c7fa06a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[5]</value>
-      <webElementGuid>4a80ab0c-350c-4022-8831-652bb64b4fa8</webElementGuid>
+      <webElementGuid>db03abae-5e1f-438c-8e8a-c30d5107d550</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::div[6]</value>
-      <webElementGuid>a096b709-731a-4a3d-aff4-d0d8a4b5ab2d</webElementGuid>
+      <webElementGuid>59bbac01-ac81-4467-8287-0b288c72f0da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div/div/div</value>
-      <webElementGuid>67c44342-5ba7-4f88-9f30-b203c2f08db9</webElementGuid>
+      <webElementGuid>7a90657d-0927-4193-9eba-488ad3c0d020</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Hello, Cao Trần Dũng Nice to have you back,  what an exciting day!Get ready right now. ADD NEWQuestion CREATE NEWTest' or . = 'Hello, Cao Trần Dũng Nice to have you back,  what an exciting day!Get ready right now. ADD NEWQuestion CREATE NEWTest')]</value>
-      <webElementGuid>72dde6ae-8c9a-4fb2-9581-c8a5e979f95c</webElementGuid>
+      <webElementGuid>574d3ab4-7298-4024-8b7e-00842649fc05</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

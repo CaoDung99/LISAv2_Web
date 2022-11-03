@@ -6,16 +6,96 @@
    <elementGuidId>606fa445-93e0-4829-97b8-4d88e20d5406</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.nCP5yc.AjY5Oe.DuMIQc.LQeN7.qIypjc.TrZEUc.lw1w4b.VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe.VfPpkd-ksKsZd-mWPk3d > span.VfPpkd-vQzf8d</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='identifierNext']/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-k8QpJ.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.nCP5yc.AjY5Oe.DuMIQc.LQeN7.qIypjc.TrZEUc.lw1w4b.VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe > span.VfPpkd-vQzf8d</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>62c05467-b6db-43ad-aabc-f66f8907eee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>V67aGc</value>
+      <webElementGuid>28b7e6b0-e241-4a84-bcf2-dd55ad52e796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-vQzf8d</value>
+      <webElementGuid>b2e240eb-0ca0-4c99-a546-4ceee7967624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiếp theo</value>
+      <webElementGuid>3dcf8711-c604-4676-a37e-c66ee4532395</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;identifierNext&quot;)/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe&quot;]/span[@class=&quot;VfPpkd-vQzf8d&quot;]</value>
+      <webElementGuid>20f47718-3561-43a9-824c-2bf2acbe44dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e6a13772-f7cf-4279-ba81-0798ece507ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>V67aGc</value>
+      <webElementGuid>d974c191-5a89-4dcd-9ade-97b140080c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-vQzf8d</value>
+      <webElementGuid>066d39ef-877a-4d90-95c7-5024c882364c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiếp theo</value>
+      <webElementGuid>70968da7-005c-4558-a98f-93c713ccddd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;identifierNext&quot;)/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe&quot;]/span[@class=&quot;VfPpkd-vQzf8d&quot;]</value>
+      <webElementGuid>0a92e35b-dd39-4b15-8dd1-47fac3a2443f</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -41,7 +121,7 @@
       <webElementGuid>17a5acaf-fb8d-4b33-b383-4db28b72ef3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +142,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='identifierNext']/div/button/span</value>
-      <webElementGuid>ea0154c9-1cb7-4c3b-aab3-e7c5e675eb66</webElementGuid>
+      <webElementGuid>035d6805-19bd-4e49-8fbe-59dd53ebad4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bạn quên địa chỉ email?'])[1]/following::span[3]</value>
-      <webElementGuid>9f29bfe0-a8d4-4e43-bda0-ad72d0a65282</webElementGuid>
+      <webElementGuid>cb300678-5930-4c32-93da-77f827d83e55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='blue4ocean.online'])[1]/following::span[4]</value>
-      <webElementGuid>0238946e-0dd8-4a93-b81f-4d9f5d718b02</webElementGuid>
+      <webElementGuid>9ba3b3bb-4c0e-4177-bbbc-bab5d8abe7e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tạo tài khoản'])[1]/preceding::span[1]</value>
-      <webElementGuid>44850e05-c1b9-476d-bfb7-e5d08a16bf5f</webElementGuid>
+      <webElementGuid>1564cd63-421b-495b-82c3-6090f64b3b00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='‪Afrikaans‬'])[1]/preceding::span[2]</value>
-      <webElementGuid>9cd93033-8eb9-4d52-8a69-72466da4a54f</webElementGuid>
+      <webElementGuid>a708489b-8a80-4fe9-834e-6086d0de02ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tiếp theo']/parent::*</value>
-      <webElementGuid>0b8d25f5-d33b-4eba-b378-58fdc6e97f0b</webElementGuid>
+      <webElementGuid>22454a6b-495b-4003-86d8-4e7284fa39e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +190,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/button/span</value>
-      <webElementGuid>e2ce7446-23ac-4cec-a692-153e5c5d8487</webElementGuid>
+      <webElementGuid>5d37a616-9ce5-4434-b8a0-ac343e61ab4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +198,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Tiếp theo' or . = 'Tiếp theo')]</value>
-      <webElementGuid>71605c9d-4a23-4115-8ca0-988e53598245</webElementGuid>
+      <webElementGuid>0a93ea63-8af5-49ec-84d6-043bb4b150c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

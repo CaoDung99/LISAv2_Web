@@ -6,16 +6,80 @@
    <elementGuidId>7446914c-b92e-4817-a49a-a583c07d0887</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.q-btn.q-btn-item.non-selectable.no-outline.btn_login.q-btn--unelevated.q-btn--rectangle.bg-white.text-black.q-btn--actionable.q-focusable.q-hoverable.q-btn--no-uppercase.q-btn--wrap > span.q-btn__wrapper.col.row.q-anchor--skip > span.q-btn__content.text-center.col.items-center.q-anchor--skip.justify-center.row</value>
+         <key>XPATH</key>
+         <value>//div[@id='q-app']/div/div/div/div[2]/div/form/button[2]/span[2]/span/span[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='q-app']/div/div/div/div[2]/div/form/button[2]/span[2]/span</value>
+         <key>CSS</key>
+         <value>button.q-btn.q-btn-item.non-selectable.no-outline.btn_login.q-btn--unelevated.q-btn--rectangle.bg-white.text-black.q-btn--actionable.q-focusable.q-hoverable.q-btn--no-uppercase.q-btn--wrap > span.q-btn__wrapper.col.row.q-anchor--skip > span.q-btn__content.text-center.col.items-center.q-anchor--skip.justify-center.row > span.block</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9cbacc1e-8fbb-4b11-9e31-2f3b5d40886f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>da257ba8-993e-4ed6-99f1-0eee40df1da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in with Google</value>
+      <webElementGuid>2594bc10-a1b6-4999-a945-cb3bb68ba430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[@class=&quot;q-layout q-layout--standard&quot;]/div[1]/div[1]/div[@class=&quot;login_form&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;q-form  login&quot;]/button[@class=&quot;q-btn q-btn-item non-selectable no-outline btn_login q-btn--unelevated q-btn--rectangle bg-white text-black q-btn--actionable q-focusable q-hoverable q-btn--no-uppercase q-btn--wrap&quot;]/span[@class=&quot;q-btn__wrapper col row q-anchor--skip&quot;]/span[@class=&quot;q-btn__content text-center col items-center q-anchor--skip justify-center row&quot;]/span[@class=&quot;block&quot;]</value>
+      <webElementGuid>32085da9-7367-4052-afc7-7cce0bb1b797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6608a293-469f-4722-afdd-ebad9ae34333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-btn__content text-center col items-center q-anchor--skip justify-center row</value>
+      <webElementGuid>dd716be3-9a76-49db-9a2f-2aac73bbeffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in with Google</value>
+      <webElementGuid>7293a85a-324b-4ab0-8156-2201473ff5a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;q-app&quot;)/div[@class=&quot;q-layout q-layout--standard&quot;]/div[1]/div[1]/div[@class=&quot;login_form&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;q-form  login&quot;]/button[@class=&quot;q-btn q-btn-item non-selectable no-outline btn_login q-btn--unelevated q-btn--rectangle bg-white text-black q-btn--actionable q-focusable q-hoverable q-btn--no-uppercase q-btn--wrap&quot;]/span[@class=&quot;q-btn__wrapper col row q-anchor--skip&quot;]/span[@class=&quot;q-btn__content text-center col items-center q-anchor--skip justify-center row&quot;]</value>
+      <webElementGuid>7826eff5-1680-4960-8215-ebea958c9597</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -33,7 +97,7 @@
       <webElementGuid>a39a7e81-86c3-41e3-a77d-179dd354efa8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -53,40 +117,56 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='q-app']/div/div/div/div[2]/div/form/button[2]/span[2]/span</value>
-      <webElementGuid>8e2e8c56-19a7-416a-b5f5-a5430c6f5b8b</webElementGuid>
+      <value>//div[@id='q-app']/div/div/div/div[2]/div/form/button[2]/span[2]/span/span[2]</value>
+      <webElementGuid>578e3f36-9cca-407f-91f7-81ab52d23939</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::span[3]</value>
-      <webElementGuid>2fee2823-66a8-464a-a895-5d711bfa2ed6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::span[5]</value>
+      <webElementGuid>db9ac315-18a4-4590-a11e-535f015d6c84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[3]</value>
-      <webElementGuid>a8f8af34-983c-4eb7-bedd-06d08afda64f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[5]</value>
+      <webElementGuid>c8bd727f-b6e0-41cf-ae85-349fae4350a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Language'])[1]/preceding::span[3]</value>
-      <webElementGuid>22bf1da6-6e38-4e11-913d-6f1e70e083b6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Language'])[1]/preceding::span[1]</value>
+      <webElementGuid>116501b4-84fa-4e2d-af89-fe73457c7e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::span[2]</value>
+      <webElementGuid>b6ba4c5b-32c3-4807-9aff-23279cdeab30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in with Google']/parent::*</value>
+      <webElementGuid>7f7a3e24-5dda-4052-81bc-5125433cd4dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[2]/span[2]/span</value>
-      <webElementGuid>0ea84457-8df5-4658-b485-add81fdf7e85</webElementGuid>
+      <value>//span/span[2]</value>
+      <webElementGuid>bb9daf43-73fa-4840-8bec-ddf544d9352d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +174,46 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Sign in with Google' or . = 'Sign in with Google')]</value>
-      <webElementGuid>56774b25-963a-4c30-ba82-2ed7f1935f95</webElementGuid>
+      <webElementGuid>cf3ec837-7d9e-4f17-947e-3916e2902fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='q-app']/div/div/div/div[2]/div/form/button[2]/span[2]/span</value>
+      <webElementGuid>4af804cf-837c-4b51-9f7d-ab736b8c27d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::span[3]</value>
+      <webElementGuid>9f4b02e8-c11e-4698-ac1d-3ff07b06e63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[3]</value>
+      <webElementGuid>1e4c5a3d-108b-41d4-a714-2fc139f21492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Language'])[1]/preceding::span[3]</value>
+      <webElementGuid>185a2f0d-fb04-4bf6-8619-9e30da1c0c51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span[2]/span</value>
+      <webElementGuid>3ba3e793-5bf5-4ea5-89b0-73ab5955e30c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
